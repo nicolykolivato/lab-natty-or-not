@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Studying at night with a good company ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem de uma mulher estudando a noite com o seu cachorro ao lado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bria.ia
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+a 25 year old woman in front of a computer studying programming languages at night, with her golden retriever by her side and a mug of coffee on the desk
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagem 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
